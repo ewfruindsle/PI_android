@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">week1App</string>
+    <string name="static_text">this text cannot be changed</string>
+    <string name="invisible_text">this is invisible text</string>
+    <string name="chosen_text">this text is supposed to be chosen</string>
+    <string name="choose_btn">choose</string>
+    <string name="share_btn">share</string>
+    <string-array name="textToChoose">
+        <item>happy text</item>
+        <item>sad text</item>
+        <item>shocking text</item>
+        <item>laughing text</item>
+        <item>confusing text</item>
+        <item>grumpy text</item>
+        <item>inspiring text</item>
+    </string-array>
+
+</resources>
